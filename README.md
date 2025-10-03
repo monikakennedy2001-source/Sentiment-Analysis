@@ -50,5 +50,3 @@ This project implements a real-time sentiment analysis system using **neural net
 - **Deployment:** Streamlit Cloud  
 
 
-   ```bash
-   git clone <your-github-repo-url>
